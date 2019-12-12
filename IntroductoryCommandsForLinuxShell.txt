@@ -1,0 +1,32 @@
+1] $echo hello
+>> hello
+#echo prints whatsever you type after the command echo.
+
+2] $cal
+#displays the current month calender on terminal
+
+3] $cal 2017
+#displays the calender of whole year ie:2017
+
+4]  giving options with commands is ok!
+eg: cal -y
+#displays the current year calender with current date highlighted
+
+5] $date
+#displays the current date with time and time-zome
+
+6] $history
+#displays the history of executed commands on terminal with exuecution numberwise
+
+7] $echo HISTSIZE
+#displays the size of history file can hold in it, usually it is 1000
+
+8] $![number]
+#if you want to execute the command which was executed first, then -> !1 will execute it!
+Hence see the number from history and execute in above way to reexecute again!!!
+
+9] $!!
+#execute the recent command (which was executed right before this...)
+
+10] $history -c; history -w
+#clears the all the commands from history and it writes all this changes in that(history) file.
