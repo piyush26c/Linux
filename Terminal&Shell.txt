@@ -1,0 +1,7 @@
+1] Terminal is like window where we type the commands and this commands are submitted to SHELL.
+
+2] commands are interpreted by the SHELL
+
+3] Different SHELLS can interpret the same text in different ways!!
+
+4] 
