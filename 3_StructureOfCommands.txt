@@ -1,0 +1,23 @@
+1] General Structure of Command : 
+commandName options inputs
+
+2] $echo PATH
+#folder path separated by ':', function retreiving goes from left to right.
+
+3] $which [functionName]
+#searches the function at all of the PATH[left to right] mentioned.
+
+4] $date -u
+#gives universal time
+
+5] $date --universal
+#same behaviour of the (4) but here you are mentioning whole of the option name not the shorcuts
+
+6] $date -u -a -g -h
+#hence if you are using multiple options then you can club all of them by using $date -uagh (where order doesn't matter).
+
+7] $cal -A 1 12 2017
+#displays the one month after the december of 2017 ie: 12/2017 and 1/2018
+
+8] $cal -B 1 12 2017
+#displays the one month before the december of 2017 ie: 11/2017 and 12/2017
