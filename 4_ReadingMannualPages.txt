@@ -1,0 +1,4 @@
+1] $ man -k which
+#first look in to the number from above to which you have to explore
+
+2] after getting it put it in options
