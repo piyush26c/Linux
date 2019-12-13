@@ -1,5 +1,6 @@
 1] General Structure of Command : 
-commandName options inputs
+commandName -options inputs
+#commandName should be on Shell's search PATH
 
 2] $echo PATH
 #folder path separated by ':', function retreiving goes from left to right.
