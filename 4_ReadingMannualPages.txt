@@ -2,3 +2,5 @@
 #first look in to the number from above to which you have to explore
 
 2] after getting it put it in options
+
+3] option number 1 is optional as it displays the usage of command, you can also type onto terminal : man which
