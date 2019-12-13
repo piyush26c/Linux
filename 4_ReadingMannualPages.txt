@@ -4,3 +4,5 @@
 2] after getting it put it in options
 
 3] option number 1 is optional as it displays the usage of command, you can also type onto terminal : man which
+
+4] If man doesn't works then go for help command.
