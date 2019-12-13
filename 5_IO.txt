@@ -1,0 +1,15 @@
+*****STANDARD OUTPUT REDIRECTING*****
+
+1] $cat 
+#tells us about the standard input stream which is bydefault keyboard
+
+2] Two ways to get data in are : Standard Input Stream, option argument
+and two ways to get data out : Standard Output Stream, Standard Error Stream.
+
+3] $cat 1> output.txt
+<type the text and press Ctrl+c>
+#redirects the standard output stream to file name output.txt located in current directory, moreover 1 is option means : 
+$cat > output.txt
+#above to two commands truncate the file, whereas if you want to append the data enterec you have to type '>>' I mean :
+$cat >> output.txt, will actually append the data you have entered so far....
+
